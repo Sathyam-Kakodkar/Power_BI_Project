@@ -1,7 +1,6 @@
 
-<div style="text-align: center;">
-  <img src="https://github.com/Sathyam-Kakodkar/Power_BI_Project/blob/main/Images/Power%20BI%20Logo.png" alt="Power BI" width="500">
-</div> 
+![Screenshot](https://github.com/Sathyam-Kakodkar/Power_BI_Project/blob/main/Images/Power%20BI%20Logo.png)
+
 
 # Revenue Insights on Hospitality Domain
 
@@ -30,5 +29,7 @@ Dataset --> [Data Folder](https://github.com/Sathyam-Kakodkar/Power_BI_Project/t
 
 This project will help the stakeholders make decisions on which areas to focus.
 For there is need to increase the online bookings as compared to offline because of rapid digitalization.
+
+Link --> [Power BI Workbook](https://github.com/Sathyam-Kakodkar/Power_BI_Project/tree/main/Data)
 
 </div>
