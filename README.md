@@ -30,6 +30,6 @@ Dataset --> [Data Folder](https://github.com/Sathyam-Kakodkar/Power_BI_Project/t
 This project will help the stakeholders make decisions on which areas to focus.
 For there is need to increase the online bookings as compared to offline because of rapid digitalization.
 
-Link --> [Power BI Workbook](https://github.com/Sathyam-Kakodkar/Power_BI_Project/tree/main/Data)
+Link --> [Power BI Workbook](https://github.com/Sathyam-Kakodkar/Power_BI_Project/blob/main/Power%20BI%20Workbook/Revenue%20Insights%20of%20Hospitality%20Domain.pbix)
 
 </div>
