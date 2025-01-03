@@ -7,10 +7,10 @@
 <div style="text-align: justify;">
 
 ## Overview
-The aim of the project is to provide business insights of fictitious hotel company. 
-The project uses power bi software to track key metrics such as Revpar (Revenue per available room) & DSRN (Daily sellable room nights).
-This metrics is created with the help of measures using DAX queries. 
-
+The project aims to provide business insights into a fictitious hotel company. 
+The project uses Power BI software to track key metrics such as RevPAR (Revenue per available room) & DSRN (Daily sellable room nights).
+These metrics are created with the help of measures using DAX queries. 
+</div>
 
 ## Business Understanding
 
@@ -28,8 +28,7 @@ Dataset --> [Data Folder](https://github.com/Sathyam-Kakodkar/Power_BI_Project/t
 ![Dashboard](https://github.com/Sathyam-Kakodkar/Power_BI_Project/blob/main/Images/Dashboard.png)
 
 This project will help the stakeholders make decisions on which areas to focus.
-For there is need to increase the online bookings as compared to offline because of rapid digitalization.
+For example, there is a need to increase online bookings compared to offline bookings because of rapid digitalization.
 
 Link --> [Power BI Workbook](https://github.com/Sathyam-Kakodkar/Power_BI_Project/blob/main/Power%20BI%20Workbook/Revenue%20Insights%20of%20Hospitality%20Domain.pbix)
 
-</div>
